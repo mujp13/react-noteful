@@ -1,0 +1,89 @@
+[33mcommit 9236cff4927fbe398733c43892d39ed260ffacc8[m[33m ([m[1;36mHEAD[m[33m)[m
+Author: Kevin Park <keunsuk413@gmail.com>
+Date:   Mon Feb 24 22:03:50 2020 -0600
+
+    another commit
+
+[33mcommit df4975df53f15b3a9ce42cb8a3ec903f83a164e4[m
+Author: Kevin Park <keunsuk413@gmail.com>
+Date:   Sun Feb 23 16:29:13 2020 -0600
+
+    recovered
+
+[33mcommit 625da44546c4727dbc472655379d466bdd6fb51d[m
+Author: Kevin Park <keunsuk413@gmail.com>
+Date:   Sun Feb 23 15:34:45 2020 -0600
+
+    currency compo
+
+[33mcommit b009d1d8bd5300b1a08753c5bd504823ba564082[m
+Author: Kevin Park <keunsuk413@gmail.com>
+Date:   Sat Feb 22 02:22:04 2020 -0600
+
+    finished delete button
+
+[33mcommit f5869313493fbe77845efc2d7c66fe60db8b49f7[m
+Author: Kevin Park <keunsuk413@gmail.com>
+Date:   Fri Feb 21 23:11:25 2020 -0600
+
+    recoded
+
+[33mcommit d6cf4b21d1e723c2a4f43dfe382a508035e950b7[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Kevin Park <keunsuk413@gmail.com>
+Date:   Thu Feb 20 20:29:39 2020 -0600
+
+    finished api part
+
+[33mcommit 6b2abc73ab3b2b4cc3ab25c91896a7edf11b11c6[m
+Author: Kevin Park <keunsuk413@gmail.com>
+Date:   Thu Feb 20 18:58:35 2020 -0600
+
+    working on FolderPage.js
+
+[33mcommit 3d471cd491e6f28dc0ac71c76dd70f22620476ba[m
+Author: Kevin Park <keunsuk413@gmail.com>
+Date:   Thu Feb 20 12:10:01 2020 -0600
+
+    added fetch
+
+[33mcommit c0755ab91effcd5452813b8a15cd7a2039479b5a[m
+Author: Kevin Park <keunsuk413@gmail.com>
+Date:   Thu Feb 13 19:57:24 2020 -0600
+
+    finished react routing part
+
+[33mcommit dba2e9604269dbaddcd0c58a28b58e1900c25ae6[m
+Author: Kevin Park <keunsuk413@gmail.com>
+Date:   Thu Feb 13 18:16:38 2020 -0600
+
+    another commit
+
+[33mcommit 41270e1173f3c373480d0c7ddfb629503b03c823[m
+Author: Kevin Park <keunsuk413@gmail.com>
+Date:   Thu Feb 13 16:22:02 2020 -0600
+
+    another commit
+
+[33mcommit a21898f72e30cee1024ad90fd1e4098272fc9e80[m
+Author: Kevin Park <keunsuk413@gmail.com>
+Date:   Thu Feb 13 00:59:36 2020 -0600
+
+    need to do sidebar working
+
+[33mcommit 40c1da3e6a95c1afc519eb0586541f30476b3b27[m
+Author: Kevin Park <keunsuk413@gmail.com>
+Date:   Wed Feb 12 16:01:29 2020 -0600
+
+    init commit
+
+[33mcommit f47795900f7878c9df15ae0a563fb7a59b1179e8[m
+Author: Kevin Park <keunsuk413@gmail.com>
+Date:   Mon Feb 10 15:37:13 2020 -0600
+
+    initial commit
+
+[33mcommit d22b5cb541aad7d551ac2867986ef7652bd82c87[m
+Author: Kevin Park <keunsuk413@gmail.com>
+Date:   Mon Feb 10 15:27:56 2020 -0600
+
+    Initial commit from Create React App
